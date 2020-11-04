@@ -1,0 +1,24 @@
+.canvas {
+    background-color: black;
+}
+
+.play-button {
+    border-radius: 10em;
+    width: 10em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    background: linear-gradient(to bottom left, #BFFFB0, #1C8005);
+    cursor: pointer;
+}
+
+.play-button:hover {
+    color: #22FED9;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.button-container {
+    position: absolute;
+    top: 77%;
+}
